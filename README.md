@@ -15,6 +15,10 @@ The whole thing is designed to be **modular, hackable, and expandable.**
 
 ---
 
+<img width="661" height="829" alt="Main Cad" src="https://github.com/user-attachments/assets/7fcbdd21-0cce-4cd5-b265-2c6a2d44288b" />
+
+---
+
 # 🚧 Project Status
 
 This is an **active, evolving project.**
